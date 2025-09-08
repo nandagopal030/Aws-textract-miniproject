@@ -1,0 +1,1 @@
+This project was built in my third year of college where textract is basically extracting a text from a document like pdfs, word or any hand written notes all the actions are being done with lambda functions and the actions are performed in AWS Infrastructure 
